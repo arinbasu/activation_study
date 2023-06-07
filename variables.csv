@@ -1,0 +1,14 @@
+﻿Sedentary Bout Parameters,,,
+Minimum Length:,10,Minutes,
+Minimum Count Value:,0,Counts Per Minute,
+Maximum Count Value:,99,Counts Per Minute,
+Drop Time:,0,Minutes,
+Vector magnitude?,False,,
+,,,
+Cut Point Values,,,
+Sedentary,0,to,100
+Light,101,to,2295
+Moderate,2296,to,4011
+Vigorous,4012,and above,
+,,,
+MVPA Minimum Count,2296,,
